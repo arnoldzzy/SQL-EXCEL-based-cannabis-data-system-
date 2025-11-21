@@ -1,7 +1,7 @@
 # SQL-EXCEL-based-cannabis-data-system-
 
 ## Background
-- This data tracking system was designed to help any manufacturing company who cannot afford a proper ERP software. However, the accurate tracebility of massive product, inventory and shipment data flow is required for all purposes of operational and compliant needs.   
+- This local data tracking system was designed to help any manufacturing company who cannot afford a proper ERP software. However, the accurate tracebility of massive product, inventory and shipment data flow is required for all purposes of operational and compliant needs.   
 
 - This system is in compliance with Cannabis Act, Cannabis Regulation, Good Production Practices(GPP), and Health Canada 
 
